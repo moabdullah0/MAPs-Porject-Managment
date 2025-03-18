@@ -27,7 +27,7 @@ The dashboard provides a comprehensive view of various metrics and functionaliti
 ### Using Next.js and React Query
 - **Next.js**: This project utilizes Next.js for server-side rendering and optimized performance. To get started, ensure you have Node.js installed, then run:
 
-
+Link : https://maps-project-xi.vercel.app/
 
 ![image](https://github.com/user-attachments/assets/ad5b0c42-4629-4ec0-98c5-2bf9f3130802)
 
