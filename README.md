@@ -1,4 +1,4 @@
-# MAPs-Porject-Managment
+# MAPs-Project-Managment
 
 
 ## Dashboard Overview
